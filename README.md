@@ -10,3 +10,4 @@
 
 - Nama/link profil GitHub
   - Link laman-nya
+  - Deskripsi singkat
